@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Consumo_Medio</string>
+    <string name="consumo_medio">Consumo Medio (km/l)</string>
+    <string name="quantidade_litros">Quantidade de Litros (l)</string>
+    <string name="calcular">Calcular</string>
+    <string name="autonomia">A Autonomia em metros é de </string>
+</resources>
